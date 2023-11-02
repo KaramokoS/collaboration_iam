@@ -1,0 +1,16 @@
+name: formation_da
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python >=3.11
+  - ipython
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
+  - notebook <7
+  - scikit-learn
+
+
